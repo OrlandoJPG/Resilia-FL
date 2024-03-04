@@ -138,7 +138,7 @@ La variedad ***RESILIA FL*** no demanda el establecimiento de láminas de agua p
 
 El momento de drenaje del campo debe realizarse preferentemente bajo evaluación técnica ya que deben considerarse algunos aspectos fisiológicos del llenado de granos tales como: avance de la maduración,  ángulo de inclinación de la panícula, superior a 120º, evaluar las condiciones ambientales del ciclo de siembra (periodo seco -- periodo lluvioso).
 
-![Rif: J-08507040-0](Resilia-09.jpeg "Resilia FL")
+
 
 ### **Cosecha**
 
