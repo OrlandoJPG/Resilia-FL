@@ -128,7 +128,7 @@ A continuación agregamos información complementaria sobre la fertilización:
 
 La variedad ***RESILIA FL*** ha sido evaluada en diferentes ambientes para conocer su comportamiento frente a las enfermedades fungosas más importantes del país. Su desempeño fue muy notable cuando el manejo de malezas y plagas, junto a la nutrición se realizaron considerando las recomendaciones antes señaladas, sin embargo, ante las variaciones climáticas que influyen sobre las condiciones predisponentes de los diferentes patógenos que atacan al cultivo de arroz, es recomendable que durante los meses del año donde se registran constantes precipitaciones y altas temperaturas, se realicen bajo asesoría técnica protecciones preventivas dirigidas a garantizar la sanidad integral de cultivo y la panícula, de esta manera se evitaría posibles brotes del complejo de patógenos responsable del manchado de granos.
 
-![Rif: J-08507040-0](Resilia-07.jpeg "Resilia FL")
+
 
 ### **Manejo del riego**
 
@@ -145,8 +145,6 @@ El momento de drenaje del campo debe realizarse preferentemente bajo evaluación
 Recomendamos que se revise periódicamente la calibración de la cosechadora combinada para reducir las pérdidas que con frecuencia suceden durante esta importante tarea.
 
 Humedad del grano ideal para la recolección: entre 22% y 20%.
-
-![Rif: J-08507040-0](Resilia-10.jpeg "Resilia FL")
 
 ![Rif: J-08507040-0](Resilia-12.jpeg "Resilia FL")
 Si tiene preguntas o dudas sobre la información de manejo de la ***RESILIA FL***, no dude en consultarnos a los correos:
