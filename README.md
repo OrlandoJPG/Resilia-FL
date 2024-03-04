@@ -1,4 +1,5 @@
-### Resilia-FL
+![Rif: J-08507040-0](logo.png "Aproscello")
+# Resilia-FL
 ## Características de la nueva variedad y su referencial de manejo agronómico
 
 Les presentamos nuestra nueva variedad de arroz **RESILIA FL**. Después de cumplir con todos los requisitos establecidos por la ***Comisión Nacional de Semilla*** (Conasem), le fue asignado el ***código Nº CNS-CC-24-502-13*** en el ***Registro Nacional de Cultivares Comerciales***.
