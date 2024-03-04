@@ -1,6 +1,16 @@
 ![Rif: J-08507040-0](logo.png "Aproscello")
 ---
 # RESILIA-FL
+---
+Ing. Yuraima Mendoza
+
+Fitomejoradora
+
+Ing. Orlando Pérez
+
+Gerente de Tecnología y Desarrollo
+
+---
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
 
 Estamos muy entusiamados de presentarles nuestra nueva variedad de arroz **RESILIA FL**. Con ella aspiramos poner en manos de los productores arroceros una herramienta tecnológica de alto desempeño en las variantes ambientales de las zonas arroceras del país. 
@@ -95,18 +105,15 @@ Para una mejor nutrición de la planta y garantizar el uso eficiente de los fert
 Se han definido algunas modalidades de fertilización como las más recomendadas en base a los resultados de investigaciones de campo; veámoslas a continuación:
 
 **Con el fósforo y potasio incorporados en presiembra**
-|Momento                                |Fuente            |Elementos   |Cantidad |
-|---------------------------------------|------------------|------------|---------|
-|**Presiembra incorporado**             |Fosfato diamónico |Fósforo (P) |Todo     |
-|                                       |Cloruro de potasio|Potasop (K) |Todo     |
-|**Reabono entre los 16 a 20 dds o dde**|Urea              |Nitrógeno (N)|25%     |
-|**Reabono entre los 30 a 35 dds o dde**|Urea              |Nitrógeno (N)|40%     |
-|**Reabon a los 45 dds o dde**          |Urea              |Nitrógeno (N)|35%     |
 
+|Momento                                 |Fuente            |Elementos   |Cantidad |
+|----------------------------------------|------------------|------------|---------|
+|**Presiembra incorporado**              |Fosfato diamónico |Fósforo (P) |Todo     |
+|                                        |Cloruro de potasio|Potasop (K) |Todo     |
+|**Reabono entre los 16 a 20 dds o dde** |Urea              |Nitrógeno (N)|25%     |
+|**Reabono entre los 30 a 35 dds o dde** |Urea              |Nitrógeno (N)|40%     |
+|**Reabon a los 45 dds o dde**           |Urea              |Nitrógeno (N)|35%     |
 
-Se han definido dos modalidades de fertilización como las más recomendadas. La primera modalidad consiste en la incorporación al suelo de todo el ***fósforo*** (P) y todo el ***potasio*** (K) en presiembra; luego de la siembra, realizar al menos entre dos a tres enmiendas con ***nitrógeno*** (N); La primera enmienda a inicio del macollamiento (16 -- 20 dds aproximadamente) con un 25% del **nitrógeno**, más adelante podemos aplicar el resto del nitrógeno a los 35 dds o aplicar el 50% y a los 45 dds, antes de inicio de elongación del tallo aplicamos el 25% resto del nitrógeno.
-
-La segunda modalidad recomendada consiste en realizar la fertilización básica entre los 8 y 12 dds con todo el ***fósforo*** (P) y un 20% del ***potasio*** (K); respecto al ***nitrógeno*** (N) es necesario que se aplique entre un 15% y 20%. Posteriormente, cuando el cultivo alcance entre los 25 a 30 dds, aplicar el resto del ***potasio*** (que sería entre 80% y 85% del total recomendado) en mezcla con el 65 a 70 unidades/kg de **nitrógeno** (N). Finalmente, cuando el cultivo alcance los 45 dds y antes de iniciar la elongación del tallo, aplicar el resto del ***nitrógeno*** (N).
 
 Un dato importante de manejo válido para ambas modalidades es que si por razones de logística la última enmienda de ***nitrógeno*** no se pudiera aplicar antes de la etapa de elongación, se recomienda esperar que esta etapa termine para poder realizarla, esto evitará que la planta crezca en altura por encima de su promedio lo que induciría a condiciones favorables para el acame o vuelco.
 
