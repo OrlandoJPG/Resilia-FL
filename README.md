@@ -108,8 +108,6 @@ La segunda modalidad recomendada consiste en realizar la fertilización básica 
 
 Un dato importante de manejo válido para ambas modalidades es que si por razones de logística la última enmienda de ***nitrógeno*** no se pudiera aplicar antes de la etapa de elongación, se recomienda esperar que esta etapa termine para poder realizarla, esto evitará que la planta crezca en altura por encima de su promedio lo que induciría a condiciones favorables para el acame o vuelco.
 
-![Rif: J-08507040-0](Resilia-06.jpeg "Resilia FL")
-
 A continuación agregamos información complementaria sobre la fertilización:
 
 -   **Nitrógeno (N):** No aplicar menos de 180 unidades/ha; no perder de vista la relación 1:1 con el potasio (K).
