@@ -1,8 +1,10 @@
 ![Rif: J-08507040-0](logo.png "Aproscello")
-# Resilia-FL
-## Características de la nueva variedad y su referencial de manejo agronómico
+---
+# RESILIA-FL
+## Características de la nueva variedad de arroz y su referencial de manejo agronómico
 
-Les presentamos nuestra nueva variedad de arroz **RESILIA FL**. Después de cumplir con todos los requisitos establecidos por la ***Comisión Nacional de Semilla*** (Conasem), le fue asignado el ***código Nº CNS-CC-24-502-13*** en el ***Registro Nacional de Cultivares Comerciales***.
+Estamos muy entusiamados de presentarles nuestra nueva variedad de arroz **RESILIA FL**. Con ella aspiramos poner en manos de los productores arroceros una herramienta tecnológica de alto desempeño en las variantes ambientales de las zonas arroceras del país. 
+Después de cumplir con todos los requisitos establecidos por la ***Comisión Nacional de Semilla*** (Conasem), le fue asignado el ***código Nº CNS-CC-24-502-13*** en el ***Registro Nacional de Cultivares Comerciales***.
 
 La variedad ***RESILIA FL***, proviene del cruce de FL11963/FL08283/FL09382/FL08336 y tiene por *Pedigree FL11963-2P-3-3P-1PY-M*.
 
@@ -25,35 +27,24 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 | Nº de Granos por panícula        | 134 -- 229                |
 | Longitud de la panícula (cm)     | 26.4 -- 28.9              |
 | Retraso a cosecha                | Resistente                |
-| Potencial de rendimiento (TN/ha) | Superior a 8,5            |
+| Potencial de rendimiento (TN/ha) | Superior a 8.5            |
 
-: {.striped .hover}
+
 
 ### **Reacción a plagas y enfermedades**
+|                                                          |                  |
+|----------------------------------------------------------|------------------|
+| Piricularia hoja (*Pyricularia oryzae* )                 | Resistente       |
+| Piricularia cuello (*Pyricularia oryzae* )               | Resistente       |
+| Helminthosporiosis en hoja (*Helminthosporium oryzae*)   | Resistente       |
+| Helminthosporiosis en cuello (*Helminthosporium oryzae*) | Resistente       |
+| Escaldado (*Rhynchosporium oryzae*)                      | Resistente       |
+| Manchado del grano                                       | Resistente       |
+| Virus Hoja Blanca                                        | Tolerante        |
+| Sogata (*Tagosodes orizicolus*)                          | Resistente       |
 
-|                                                          |               |
-|----------------------------------------------------------|---------------|
-| Piricularia hoja (*Pyricularia oryzae* )                 | 0 -- 3        |
-| Piricularia cuello (*Pyricularia oryzae* )               | 0 -- 3        |
-| Helminthosporiosis en hoja (*Helminthosporium oryzae*)   | 0 -- 3        |
-| Helminthosporiosis en cuello (*Helminthosporium oryzae*) | 0 -- 3        |
-| Escaldado (*Rhynchosporium oryzae*)                      | 0 -- 3        |
-| Manchado del grano                                       | 0 - 3         |
-| Virus Hoja Blanca                                        | 0 -- 5        |
-| Sogata (*Tagosodes orizicolus*)                          | 0 -- 3        |
-
-: {.striped .hover}
-
-
-
--   La escala de medición va desde 0 a 9.
-
-    -   0 significa que no presentó síntomas y es resistente.
-
-    -   9 es altamente susceptible.
 
 ### **Características de la semilla**
-
 |                            |              |
 |----------------------------|--------------|
 | Longitud mm)               | 10.0 -- 11.0 |
@@ -62,7 +53,7 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 | Arista                     | Ausente      |
 | Peso de 1000 semillas (gr) | 26.0 -- 28.1 |
 
-: Características de la semilla {.striped .hover}
+
 
 ## **REFERENCIAL DE MANEJO AGRONÓMICO**
 
@@ -83,7 +74,7 @@ Es importante que para este sistema el pregerminado se realice dándole a la sem
 
 #### ***Sistemas de labranza en suelo seco y alternativos***
 
-En sistemas de labranza reducida o conservacionista, se recomienda densidades de entre los 60 y 90 kg/ha de semilla certificada, respetando que la profundidad de siembra esté en 2,5 cm de promedio y que ésta no sea mayor a 3 cm. Si la siembra es bajo el esquema de semilla tapada con rastra de tiro, se recomendamos incrementar entre un 5 % a 7 % la densidad con el propósito de compensar la pérdida por las semillas que queden muy profunda y no son capaces de emerger.
+En sistemas de labranza reducida o conservacionista, se recomiendan densidades de entre los 60 y 90 kg/ha de semilla certificada, respetando que la profundidad de siembra esté en 2,5 cm de promedio y que ésta no sea mayor a 3 cm. Si la siembra es bajo el esquema de semilla tapada con rastra de tiro, recomendamos incrementar entre un 5 % a 7 % la densidad con el propósito de compensar las pérdidas que debido a las características del implemento queden muy profunda afectando su capacidad de emerger.
 
 
 ### **Control de malezas**
@@ -101,6 +92,17 @@ A continuación algunos tips de importancia en el control de malezas con herbici
 ### **Manejo de la fertilización**
 
 Para una mejor nutrición de la planta y garantizar el uso eficiente de los fertilizantes, es fundamental considerar la interacción entre la fecha de aplicación (momento oportuno), el tipo de nutriente o elemento a aplicar y las dosis de los mismos en función del análisis de suelo correspondiente.
+Se han definido algunas modalidades de fertilización como las más recomendadas en base a los resultados de investigaciones de campo; veámoslas a continuación:
+
+**Con el fósforo y potasio incorporados en presiembra**
+|Momento                                |Fuente            |Elementos   |Cantidad |
+|---------------------------------------|------------------|------------|---------|
+|**Presiembra incorporado**             |Fosfato diamónico |Fósforo (P) |Todo     |
+|                                       |Cloruro de potasio|Potasop (K) |Todo     |
+|**Reabono entre los 16 a 20 dds o dde**|Urea              |Nitrógeno (N)|25%     |
+|**Reabono entre los 30 a 35 dds o dde**|Urea              |Nitrógeno (N)|40%     |
+|**Reabon a los 45 dds o dde**          |Urea              |Nitrógeno (N)|35%     |
+
 
 Se han definido dos modalidades de fertilización como las más recomendadas. La primera modalidad consiste en la incorporación al suelo de todo el ***fósforo*** (P) y todo el ***potasio*** (K) en presiembra; luego de la siembra, realizar al menos entre dos a tres enmiendas con ***nitrógeno*** (N); La primera enmienda a inicio del macollamiento (16 -- 20 dds aproximadamente) con un 25% del **nitrógeno**, más adelante podemos aplicar el resto del nitrógeno a los 35 dds o aplicar el 50% y a los 45 dds, antes de inicio de elongación del tallo aplicamos el 25% resto del nitrógeno.
 
