@@ -68,6 +68,9 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 
 A continuación les entregamos el *Referencial de Manejo Agronómico de la variedad **RESILIA FL***,  el cual consideramos una guía imprescindible para garantizar la optimización de su manejo en campo y alcanzar altos rendimientos. Aspiramos que tanto los agrotécnicos como los productores estudien con detenimiento las siguientes recomendaciones, que si bien tienden a ser muy generales, son la base orientativa que permitirá la toma de decisiones desde el momento de la siembra hasta la cosecha.
 
+![Rif: J-08507040-0](Resilia-01.jpeg "Resilia FL")
+
+
 ### **Densidad de siembra**
 
 El cultivar fue evaluado bajo las diferentes modalidades de siembra que se utilizan en el país; a continuación hacemos las consideraciones pertinentes para cada sistema.
@@ -93,6 +96,8 @@ A continuación algunos tips de importancia en el control de malezas con herbici
 
 -   En el caso de usar semilla seca (no pregerminada) es completamente viable realizar aplicaciones de control de malezas entre los primeros 3 días antes de la emergencia; sin embargo, es importante que la decisión sea avalada por un técnico que verifique el estado de avance de la etapa de germinación para no salirse del momento óptimo de aplicación.
 
+![Rif: J-08507040-0](Resilia-05.jpeg "Resilia FL")
+
 ### **Manejo de la fertilización**
 
 Para una mejor nutrición de la planta y garantizar el uso eficiente de los fertilizantes, es fundamental considerar la interacción entre la fecha de aplicación (momento oportuno), el tipo de nutriente o elemento a aplicar y las dosis de los mismos en función del análisis de suelo correspondiente.
@@ -102,6 +107,8 @@ Se han definido dos modalidades de fertilización como las más recomendadas. La
 La segunda modalidad recomendada consiste en realizar la fertilización básica entre los 8 y 12 dds con todo el ***fósforo*** (P) y un 20% del ***potasio*** (K); respecto al ***nitrógeno*** (N) es necesario que se aplique entre un 15% y 20%. Posteriormente, cuando el cultivo alcance entre los 25 a 30 dds, aplicar el resto del ***potasio*** (que sería entre 80% y 85% del total recomendado) en mezcla con el 65 a 70 unidades/kg de **nitrógeno** (N). Finalmente, cuando el cultivo alcance los 45 dds y antes de iniciar la elongación del tallo, aplicar el resto del ***nitrógeno*** (N).
 
 Un dato importante de manejo válido para ambas modalidades es que si por razones de logística la última enmienda de ***nitrógeno*** no se pudiera aplicar antes de la etapa de elongación, se recomienda esperar que esta etapa termine para poder realizarla, esto evitará que la planta crezca en altura por encima de su promedio lo que induciría a condiciones favorables para el acame o vuelco.
+
+![Rif: J-08507040-0](Resilia-06.jpeg "Resilia FL")
 
 A continuación agregamos información complementaria sobre la fertilización:
 
@@ -123,12 +130,15 @@ A continuación agregamos información complementaria sobre la fertilización:
 
 La variedad ***RESILIA FL*** ha sido evaluada en diferentes ambientes para conocer su comportamiento frente a las enfermedades fungosas más importantes del país. Su desempeño fue muy notable cuando el manejo de malezas y plagas, junto a la nutrición se realizaron considerando las recomendaciones antes señaladas, sin embargo, ante las variaciones climáticas que influyen sobre las condiciones predisponentes de los diferentes patógenos que atacan al cultivo de arroz, es recomendable que durante los meses del año donde se registran constantes precipitaciones y altas temperaturas, se realicen bajo asesoría técnica protecciones preventivas dirigidas a garantizar la sanidad integral de cultivo y la panícula, de esta manera se evitaría posibles brotes del complejo de patógenos responsable del manchado de granos.
 
+![Rif: J-08507040-0](Resilia-07.jpeg "Resilia FL")
 
 ### **Manejo del riego**
 
 La variedad ***RESILIA FL*** no demanda el establecimiento de láminas de agua por largos periodos de tiempo. Entre sus características sobresalientes está el de requerir menor volumen de agua de riego que otros cultivares; el mayor número de tallos efectivos se logró manejando el cultivar con riego intermitente durante los primeros 35 dds. Sin embargo, durante la fase reproductiva recomendamos que se establezca la lámina para garantizar el normal desarrolla de las etapas de emergencia de panículas, floración, grano lechoso y grano pastoso. Estas etapas son críticas para definir un buen llenado y calidad de grano.
 
 El momento de drenaje del campo debe realizarse preferentemente bajo evaluación técnica ya que deben considerarse algunos aspectos fisiológicos del llenado de granos tales como: avance de la maduración,  ángulo de inclinación de la panícula, superior a 120º, evaluar las condiciones ambientales del ciclo de siembra (periodo seco -- periodo lluvioso).
+
+![Rif: J-08507040-0](Resilia-09.jpeg "Resilia FL")
 
 ### **Cosecha**
 
@@ -138,6 +148,9 @@ Recomendamos que se revise periódicamente la calibración de la cosechadora com
 
 Humedad del grano ideal para la recolección: entre 22% y 20%.
 
+![Rif: J-08507040-0](Resilia-10.jpeg "Resilia FL")
+
+![Rif: J-08507040-0](Resilia-12.jpeg "Resilia FL")
 Si tiene preguntas o dudas sobre la información de manejo de la ***RESILIA FL***, no dude en consultarnos a los correos:
 
 -   [aproscello\@gmail.com](mailto:aproscello@gmail.com)
