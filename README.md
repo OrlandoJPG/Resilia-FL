@@ -4,9 +4,9 @@
 # RESILIA-FL
 ---
 
-<right>**Ing. Yuraima Mendoza** -  _Fitomejoradora_</right>
-
-<right>**Ing. Orlando Pérez** -  _Gerente de Tecnología y Desarrollo_</right>
+**Ing. Yuraima Mendoza** -  _Fitomejoradora_
+<br>
+**Ing. Orlando Pérez** -  _Gerente de Tecnología y Desarrollo_
 
 ***
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
@@ -116,7 +116,7 @@ Se han definido algunas modalidades de fertilización como las más recomendadas
 |**Reabono entre los 30 a 35 dds o dde** |Urea              |Nitrógeno (N)|40%     |
 |**Reabon a los 45 dds o dde**           |Urea              |Nitrógeno (N)|35%     |
 
-
+<br>
 
 **Con el fósforo y potasio incorporados en presiembra y dos reabonos**
 
@@ -127,7 +127,7 @@ Se han definido algunas modalidades de fertilización como las más recomendadas
 |**Reabono entre los 16 a 20 dds o dde** |Urea              |Nitrógeno (N)|60%     |
 |**Reabono entre los 40 a 45 dds o dde** |Urea              |Nitrógeno (N)|40%     |
 
-
+<br>
 
 **Modalidad tradicional**
 
@@ -158,11 +158,11 @@ A continuación agregamos información complementaria sobre la fertilización:
 
 -   **Calcio, Magnesio y Azufre:** estos elementos también deben ser considerados para logar altos rendimientos; las referencias dadas a continuación también deben ser ajustadas a los resultados del análisis de suelo.
 
-    -   Calcio: entre 11 y 16 kg/ha de Ca, preferiblemente con la fertilización básica.
+    -   **Calcio**: entre 11 y 16 kg/ha de Ca, preferiblemente con la fertilización básica.
 
-    -   Magnesio: entre 8 y 12 kg/ha de Mg en la fertilización básica o en el primer reabono.
+    -   **Magnesio**: entre 8 y 12 kg/ha de Mg en la fertilización básica o en el primer reabono.
 
-    -   Azufre: 16 y 22 kg/ha de S; preferiblemente en el primer reabono.
+    -   **Azufre**: 16 y 22 kg/ha de S; preferiblemente en el primer reabono.
 
 ***
 ### **Manejo de enfermedades**
