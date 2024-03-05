@@ -1,4 +1,4 @@
-![Rif: J-08507040-0](logo.png "Aproscello")
+![Logotipo de Aproscello](logo.png "Aproscello")
 ---
 # RESILIA-FL
 ---
@@ -70,7 +70,7 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 
 A continuación les entregamos el *Referencial de Manejo Agronómico de la variedad **RESILIA FL***,  el cual consideramos una guía imprescindible para garantizar la optimización de su manejo en campo y alcanzar altos rendimientos. Aspiramos que tanto los agrotécnicos como los productores estudien con detenimiento las siguientes recomendaciones, que si bien tienden a ser muy generales, son la base orientativa que permitirá la toma de decisiones desde el momento de la siembra hasta la cosecha.
 
-![Rif: J-08507040-0](Resilia-01.jpeg "Resilia FL")
+![Campo en etapa de plántula](Resilia-01.jpeg "Resilia FL")
 
 ***
 ### **Densidad de siembra**
@@ -98,7 +98,7 @@ A continuación algunos tips de importancia en el control de malezas con herbici
 
 -   En el caso de usar semilla seca (no pregerminada) es completamente viable realizar aplicaciones de control de malezas entre los primeros 3 días antes de la emergencia; sin embargo, es importante que la decisión sea avalada por un técnico que verifique el estado de avance de la etapa de germinación para no salirse del momento óptimo de aplicación.
 
-![Rif: J-08507040-0](Resilia-05.jpeg "Resilia FL")
+![Cultivo en pleno desarrollo](Resilia-05.jpeg "Resilia FL")
 
 ***
 ### **Manejo de la fertilización**
@@ -142,6 +142,9 @@ Se han definido algunas modalidades de fertilización como las más recomendadas
 
 > Las proporciones están sujetas al tipo de fuente de fertilizante disponible, la disponibilidad de cada elemento en el suelo, según resultado del análisis de suelo respectivo y los ajustes que el agrotécnico crea pertiente de realizar.
 
+> dds => días después de la siembra
+
+> dde => días después de la emergencia 
 
 Un dato importante de manejo válido para ambas modalidades es que si por razones de logística la última enmienda de ***nitrógeno*** no se pudiera aplicar antes de la etapa de elongación, se recomienda esperar que esta etapa termine para poder realizarla, esto evitará que la planta crezca en altura por encima de su promedio lo que induciría a condiciones favorables para el acame o vuelco.
 
@@ -184,14 +187,14 @@ Recomendamos que se revise periódicamente la calibración de la cosechadora com
 
 Humedad del grano ideal para la recolección: entre 22% y 20%.
 
-![Rif: J-08507040-0](Resilia-12.jpeg "Resilia FL")
+![Listo para la cosecha](Resilia-14.jpeg "Resilia FL")
 
 ***
 Si tiene preguntas o dudas sobre la información de manejo de la ***RESILIA FL***, no dude en consultarnos a los correos:
 
--   [aproscello\@gmail.com](mailto:aproscello@gmail.com)
+-   [Aproscello](mailto:aproscello@gmail.com)
 
--   [orlandoinvestiga\@gmail.com](mailto:orlandoinvestiga@gmail.com)
+-   [Ing. Orlando Pérez](mailto:orlandoinvestiga@gmail.com)
 
   y con mucho gusto ampliaremos la información.
 
