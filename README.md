@@ -2,13 +2,9 @@
 ---
 # RESILIA-FL
 ---
-**Ing. Yuraima Mendoza**
+**Ing. Yuraima Mendoza** -  _Fitomejoradora_
 
-_Fitomejoradora_
-
-**Ing. Orlando Pérez**
-
-_Gerente de Tecnología y Desarrollo_
+**Ing. Orlando Pérez** -  _Gerente de Tecnología y Desarrollo_
 
 ***
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
