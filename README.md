@@ -1,10 +1,12 @@
 ![Logotipo de Aproscello](logo.png "Aproscello")
+
 ---
 # RESILIA-FL
 ---
-**Ing. Yuraima Mendoza** -  _Fitomejoradora_
 
-**Ing. Orlando Pérez** -  _Gerente de Tecnología y Desarrollo_
+<right>**Ing. Yuraima Mendoza** -  _Fitomejoradora_</right>
+
+<right>**Ing. Orlando Pérez** -  _Gerente de Tecnología y Desarrollo_</right>
 
 ***
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
