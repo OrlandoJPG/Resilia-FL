@@ -35,8 +35,8 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 | Reacción al volcamiento          | Resistente                |
 | Tallo                            | Fuerte y flexible         |
 | Fertilidad (%)                   | 91.4 - 93.9               |
-| Nº de Granos por panícula        | 134 -- 229                |
-| Longitud de la panícula (cm)     | 26.4 -- 28.9              |
+| Nº de Granos por panícula        | 134 - 229                |
+| Longitud de la panícula (cm)     | 26.4 - 28.9              |
 | Retraso a cosecha                | Resistente                |
 | Potencial de rendimiento (TN/ha) | Superior a 8.5            |
 
@@ -58,11 +58,11 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 ### **Características de la semilla**
 |                            |              |
 |----------------------------|--------------|
-| Longitud mm)               | 10.0 -- 11.0 |
-| Ancho (mm)                 | 2.0 -- 3.0   |
+| Longitud mm)               | 10.0 - 11.0 |
+| Ancho (mm)                 | 2.0 - 3.0   |
 | Espesor (mm)               | 2.0          |
 | Arista                     | Ausente      |
-| Peso de 1000 semillas (gr) | 26.0 -- 28.1 |
+| Peso de 1000 semillas (gr) | 26.0 - 28.1 |
 
 ***
 
