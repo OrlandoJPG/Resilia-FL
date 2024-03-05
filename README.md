@@ -39,26 +39,28 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 
 
 ### **Reacción a plagas y enfermedades**
-|                                                          |                  |
-|----------------------------------------------------------|------------------|
-| Piricularia hoja (*Pyricularia oryzae* )                 | Resistente       |
-| Piricularia cuello (*Pyricularia oryzae* )               | Resistente       |
-| Helminthosporiosis en hoja (*Helminthosporium oryzae*)   | Resistente       |
-| Helminthosporiosis en cuello (*Helminthosporium oryzae*) | Resistente       |
-| Escaldado (*Rhynchosporium oryzae*)                      | Resistente       |
-| Manchado del grano                                       | Resistente       |
-| Virus Hoja Blanca                                        | Tolerante        |
-| Sogata (*Tagosodes orizicolus*)                          | Resistente       |
+
+|                                                         |                 |
+|---------------------------------------------------------|:---------------:|
+|Piricularia hoja (*Pyricularia oryzae* )                 |Resistente       |
+|Piricularia cuello (*Pyricularia oryzae* )               |Resistente       |
+|Helminthosporiosis en hoja (*Helminthosporium oryzae*)   |Resistente       |
+|Helminthosporiosis en cuello (*Helminthosporium oryzae*) |Resistente       |
+|Escaldado (*Rhynchosporium oryzae*)                      |Resistente       |
+|Manchado del grano                                       |Resistente       |
+|Virus Hoja Blanca                                        |Tolerante        |
+|Sogata (*Tagosodes orizicolus*)                          |Resistente       |
 
 
 ### **Características de la semilla**
-|                            |              |
-|----------------------------|--------------|
-| Longitud mm)               | 10.0 - 11.0 |
-| Ancho (mm)                 | 2.0 - 3.0   |
-| Espesor (mm)               | 2.0          |
-| Arista                     | Ausente      |
-| Peso de 1000 semillas (gr) | 26.0 - 28.1 |
+
+|                           |            |
+|---------------------------|:----------:|
+|Longitud mm)               |10.0 - 11.0 |
+|Ancho (mm)                 |2.0 - 3.0   |
+|Espesor (mm)               |2.0         |
+|Arista                     |Ausente     |
+|Peso de 1000 semillas (gr) |26.0 - 28.1 |
 
 ***
 
