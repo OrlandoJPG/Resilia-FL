@@ -150,7 +150,9 @@ Humedad del grano ideal para la recolección: entre 22% y 20%.
 
 ![Rif: J-08507040-0](Resilia-10.jpeg "Resilia FL")
 
-![Rif: J-08507040-0](Resilia-12.jpeg "Resilia FL")
+![Rif: J-08507040-0](Resilia-14.jpeg "Resilia FL")
+
+***
 Si tiene preguntas o dudas sobre la información de manejo de la ***RESILIA FL***, no dude en consultarnos a los correos:
 
 -   [aproscello\@gmail.com](mailto:aproscello@gmail.com)
