@@ -109,7 +109,7 @@ Se han definido algunas modalidades de fertilización como las más recomendadas
 **Con el fósforo y potasio incorporados en presiembra y tres reabonos**
 
 |Momento                                 |Fuente            |Elementos   |Cantidad |
-|----------------------------------------|------------------|------------|---------|
+|----------------------------------------|------------------|------------|:-------:|
 |**Presiembra incorporado**              |Fosfato diamónico |Fósforo (P) |Todo     |
 |                                        |Cloruro de potasio|Potasio (K) |Todo     |
 |**Reabono entre los 16 a 20 dds o dde** |Urea              |Nitrógeno (N)|25%     |
@@ -121,7 +121,7 @@ Se han definido algunas modalidades de fertilización como las más recomendadas
 **Con el fósforo y potasio incorporados en presiembra y dos reabonos**
 
 |Momento                                 |Fuente            |Elementos   |Cantidad |
-|----------------------------------------|------------------|------------|---------|
+|----------------------------------------|------------------|------------|:-------:|
 |**Presiembra incorporado**              |Fosfato diamónico |Fósforo (P) |Todo     |
 |                                        |Cloruro de potasio|Potasio (K) |Todo     |
 |**Reabono entre los 16 a 20 dds o dde** |Urea              |Nitrógeno (N)|60%     |
@@ -132,10 +132,10 @@ Se han definido algunas modalidades de fertilización como las más recomendadas
 **Modalidad tradicional**
 
 |Momento                                 |Fuente            |Elementos   |Cantidad |
-|----------------------------------------|------------------|------------|---------|
+|----------------------------------------|------------------|------------|:-------:|
 |**Básica entre los 8 y 12 dds o dde**   |Fórmula completa  |Nitrógeno (N) |20%    |
 |                                        |                  |Fósforo (P) |Todo     |
-|                                        |Cloruro de potasio|Potasio (K)  |20%      |
+|                                        |Cloruro de potasio|Potasio (K) |20%     |
 |**Reabono entre los 25 a 30 dds o dde** |Urea              |Nitrógeno (N)|40%     |
 |                                        |Cloruro de potasio |Potasio (K) |80%     |
 |**Reabono a los 45 dds o dde**          |Urea              |Nitrógeno (N)|40%     |
