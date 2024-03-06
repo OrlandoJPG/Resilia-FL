@@ -15,6 +15,7 @@ _Fitomejoradora_
 <br>
  _Gerente de Tecnología y Desarrollo_
 <br>
+
 ***
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
 
