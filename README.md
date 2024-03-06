@@ -9,11 +9,11 @@
 
 **Ing. Yuraima Mendoza** 
 <br>
--  _Fitomejoradora_
-<br>
+_Fitomejoradora_
+
 **Ing. Orlando Pérez**
 <br>
--  _Gerente de Tecnología y Desarrollo_
+ _Gerente de Tecnología y Desarrollo_
 <br>
 ***
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
