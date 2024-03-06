@@ -2,13 +2,19 @@
 <center>Rif: J-08507040-0</center>
 
 ---
+
 # RESILIA-FL
+
 ---
 
-**Ing. Yuraima Mendoza** -  _Fitomejoradora_
+**Ing. Yuraima Mendoza** 
 <br>
-**Ing. Orlando Pérez** -  _Gerente de Tecnología y Desarrollo_
-
+-  _Fitomejoradora_
+<br>
+**Ing. Orlando Pérez**
+<br>
+-  _Gerente de Tecnología y Desarrollo_
+<br>
 ***
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico
 
